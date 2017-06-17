@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+My name is Vania and I am a junior at Northville High School!
